@@ -387,6 +387,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Web
 
 - [Tasks](https://github.com/AppleEducate/tasks_clone) [81⭐] - Google Tasks for the Web by [Rody Davis](http://appleeducate.com).
+- [flutter_web_dashboard](https://github.com/kalismeras61/flutter_web_dashboard) [397⭐] - Flutter Bootstrap Style Admin UI.
+- [flutter-web-admin-dashboard](https://github.com/GeekyAnts/flutter-web-admin-dashbaord) [158⭐] - Admin Dashboard built using Flutter Web.
+- [FlutterMinimalWebsite](https://github.com/Codelessly/FlutterMinimalWebsite) [139⭐] - A minimalistic Flutter website template for blogs and portfolios.
 
 ### Clone
 
